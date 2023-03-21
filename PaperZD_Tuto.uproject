@@ -18,7 +18,7 @@
 		},
 		{
 			"Name": "NDIIOPlugin",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
